@@ -1,6 +1,8 @@
 # Websiate 'Читальня' in React
 
-Одностраничный сайт про библиотеку - [Посмотреть проект](https://github.com/facebook/create-react-app).
+Одностраничный сайт про библиотеку
+
+![Иллюстрация](https://github.com/dCatherinee/chitalnya-web/raw/main/img/rm-1.png)
 
 ## Инструменты
 
